@@ -1,0 +1,13 @@
+7 Organ Ovi 1607054
+7 Organ DiptoBaby 1607033
+8 English Ovi 1607054
+8 English Dipto 1607033
+9 ComputerArchitecture Nuhash 1607040
+8 English Nuhash 1607040
+  9      ComputerArchitecture           Sajid          1607006
+  8                   English Faisal Ahmed Bijoy          1607048
+  8                   English    faisal bijoy          1607048
+  7                     Organ             Ovi          1607054
+  7                     Organ            ALif          1607032
+  8                   English           Niloy          1607037
+  7               LogicDesign             Ovi          1607067

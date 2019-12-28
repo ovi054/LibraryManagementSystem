@@ -1,0 +1,6 @@
+10 Electrical Current Carro 3 123 3
+8 Architecture Archii smith 2 200 5
+11 Mechnnical tt yy 5 33 4
+9 Electronics ww ww 1 11 2
+7 Electronics Ooo aaa 11 111 11
+17 Computer hhh yy 7 88 9

@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1529958365 source:g:\c++project\main.cpp
+	"header.h"
+
+1529961715 g:\c++project\header.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<bits/stdc++.h>
+
+1529868603 source:g:\c++project\menu.cpp
+	"header.h"
+
+1529961645 source:g:\c++project\add_books.cpp
+	"header.h"
+
+1529920347 source:g:\c++project\book_list.cpp
+	"header.h"
+
+1529561828 source:g:\c++project\checkid.cpp
+	"header.h"
+
+1529578239 source:g:\c++project\design.cpp
+	"header.h"
+	<bits/stdc++.h>
+
+1529575966 source:g:\c++project\gotoxy.cpp
+	"header.h"
+
+1529953060 source:g:\c++project\numofrecord.cpp
+	"header.h"
+
+1529657140 source:g:\c++project\delete_book.cpp
+	"header.h"
+
+1529656944 source:g:\c++project\delete_by_id.cpp
+	"header.h"
+
+1529656778 source:g:\c++project\getidline.cpp
+	"header.h"
+
+1529656047 source:g:\c++project\checkname.cpp
+	"header.h"
+
+1529656944 source:g:\c++project\delete_by_name.cpp
+	"header.h"
+
+1529920592 source:g:\c++project\search_book.cpp
+	"header.h"
+
+1529961702 source:g:\c++project\edit_book.cpp
+	"header.h"
+
+1529958750 source:g:\c++project\issue_book.cpp
+	"header.h"
+
+1529958347 source:g:\c++project\template.cpp
+	"header.h"
+
+1529961645 source:g:\1607054 oop project\1607054_library_management_system_project\add_books.cpp
+	"header.h"
+
+1529961715 g:\1607054 oop project\1607054_library_management_system_project\header.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<bits/stdc++.h>
+
+1529920347 source:g:\1607054 oop project\1607054_library_management_system_project\book_list.cpp
+	"header.h"
+
+1529561828 source:g:\1607054 oop project\1607054_library_management_system_project\checkid.cpp
+	"header.h"
+
+1529656047 source:g:\1607054 oop project\1607054_library_management_system_project\checkname.cpp
+	"header.h"
+
+1529657140 source:g:\1607054 oop project\1607054_library_management_system_project\delete_book.cpp
+	"header.h"
+
+1529656944 source:g:\1607054 oop project\1607054_library_management_system_project\delete_by_id.cpp
+	"header.h"
+
+1529656944 source:g:\1607054 oop project\1607054_library_management_system_project\delete_by_name.cpp
+	"header.h"
+
+1529578239 source:g:\1607054 oop project\1607054_library_management_system_project\design.cpp
+	"header.h"
+	<bits/stdc++.h>
+
+1529961702 source:g:\1607054 oop project\1607054_library_management_system_project\edit_book.cpp
+	"header.h"
+
+1529656778 source:g:\1607054 oop project\1607054_library_management_system_project\getidline.cpp
+	"header.h"
+
+1529958750 source:g:\1607054 oop project\1607054_library_management_system_project\issue_book.cpp
+	"header.h"
+
+1529958365 source:g:\1607054 oop project\1607054_library_management_system_project\main.cpp
+	"header.h"
+
+1529868603 source:g:\1607054 oop project\1607054_library_management_system_project\menu.cpp
+	"header.h"
+
+1529953060 source:g:\1607054 oop project\1607054_library_management_system_project\numofrecord.cpp
+	"header.h"
+
+1529920592 source:g:\1607054 oop project\1607054_library_management_system_project\search_book.cpp
+	"header.h"
+
+1529958347 source:g:\1607054 oop project\1607054_library_management_system_project\template.cpp
+	"header.h"
+

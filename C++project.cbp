@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="C++project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/C++project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/C++project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="C++project.cbp" />
+		<Unit filename="C++project.depend" />
+		<Unit filename="C++project.layout" />
+		<Unit filename="add_books.cpp" />
+		<Unit filename="book.txt" />
+		<Unit filename="book_list.cpp" />
+		<Unit filename="checkid.cpp" />
+		<Unit filename="checkname.cpp" />
+		<Unit filename="delete_book.cpp" />
+		<Unit filename="delete_by_id.cpp" />
+		<Unit filename="delete_by_name.cpp" />
+		<Unit filename="design.cpp" />
+		<Unit filename="edit_book.cpp" />
+		<Unit filename="getidline.cpp" />
+		<Unit filename="header.h" />
+		<Unit filename="issue_book.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="newh.h" />
+		<Unit filename="numofrecord.cpp" />
+		<Unit filename="search_book.cpp" />
+		<Unit filename="template.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
