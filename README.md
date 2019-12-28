@@ -39,15 +39,15 @@ Library Management System is a C++ object oriented programming project.
 ![](.//media/Capture18.PNG?raw=true)
 
 Some important topics of object oriented programming has been used in this project.
-Namespace
-Getter and Setter function
-Formatting input & output
-File
-Class and object
-Constructor  & destructor
-Operator overloading
-STL
-Functor & Lambda
-Inheritence 
-Polymorphism
+Namespace,
+Getter and Setter function, 
+Formatting input & output, 
+File, 
+Class and object, 
+Constructor  & destructor, 
+Operator overloading, 
+STL, 
+Functor & Lambda, 
+Inheritence, 
+Polymorphism.
 >>> 
